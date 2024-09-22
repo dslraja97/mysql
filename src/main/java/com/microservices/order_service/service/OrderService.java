@@ -14,6 +14,10 @@ import com.microservices.order_service.repository.OrderRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
+/*
+ * this is service class here only all the bussiness logic will implemented here.
+ * */
+
 @Service
 @RequiredArgsConstructor
 @Slf4j

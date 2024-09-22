@@ -12,6 +12,9 @@ import com.microservices.order_service.service.OrderService;
 
 import lombok.RequiredArgsConstructor;
 
+/*
+ * this controller class here is the Rest call will get call each of the service call will get mapped here only..
+ * */
 @RestController
 @RequestMapping("/api/order")
 @RequiredArgsConstructor

@@ -6,6 +6,9 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/*
+ * this is the order Request bean class.
+ * */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

@@ -11,6 +11,9 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/*
+ * this is the orderlistItem bean class for the mysql table will be configured like this .
+ * */
 @Entity
 @Table(name = "orderLineItem")
 @Data

@@ -6,6 +6,9 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/*
+ * this is the orderlist of item for the bean class for the backend.
+ * */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

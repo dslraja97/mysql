@@ -12,6 +12,9 @@ import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+/*
+ * this is the order bean class for the mysql table the datas will get store in this type only.
+ * */
 
 @Entity
 @Table(name = "orders")
